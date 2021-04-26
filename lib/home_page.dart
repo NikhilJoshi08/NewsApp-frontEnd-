@@ -52,7 +52,7 @@ class _HomePageState extends State<HomePage> {
           children: <Widget>[
             UserAccountsDrawerHeader(
                 accountName: Text("OMEN"),
-                accountEmail: Text("69SAXNINJA69"),
+                accountEmail: Text("SAXNINJA"),
                 currentAccountPicture: CircleAvatar(
                     backgroundImage: NetworkImage(
                         "https://images.unsplash.com/photo-1613750147830-c770850838b0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"))),
